@@ -14,6 +14,8 @@ Initialization:
   
   new Scrolly('#wrapper', {snap: 'li', offset: 3, paddingFactor: 10});
   
+  #wrapper -> element to load Scrolly. 
+  
 Arguments:
 
   snap -> used by the iScroll to snap between elements, in this case all li inside the #wrapper. 
