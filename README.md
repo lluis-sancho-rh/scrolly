@@ -16,7 +16,7 @@ Initialization:
   
   #wrapper -> element to load Scrolly. 
   
-Arguments:
+Properties:
 
   snap -> used by the iScroll to snap between elements, in this case all li inside the #wrapper. 
   
