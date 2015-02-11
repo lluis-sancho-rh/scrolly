@@ -93,7 +93,7 @@
     }
   };
 
-  $(document).on('mouseup touchend', '#wrapper li', function () {
+  $(document).on('mouseup touchend', '#wrapper', function () {
     myScroll.enable();
   });
 
